@@ -19,9 +19,11 @@
      <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
      <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
-## Total de visitas no meu perfil :detective: <br>
+<p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/VictorAaraoLemeso/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/VictorAaraoLemes/count.svg" />
  </p>
 
 </p>
