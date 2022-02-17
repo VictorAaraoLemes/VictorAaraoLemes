@@ -49,4 +49,4 @@
 
 </p>
 
-Apaixonado por tecnologia e estudo constantemente para ser um desenvolvedor full stack/amante da Computação Quântica🖥️.
+
