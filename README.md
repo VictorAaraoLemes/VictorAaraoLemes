@@ -2,10 +2,7 @@
 ## Olá! Eu sou o Victor Aarão 🤓 
 ### Estudante de Engenharia da Computação 💻- Unisal (Campus Lorena)
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-aarão-lemes-b7b174176/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaraovictorr/)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
-[![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/aarao_victorr)
+
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAaraoLemes&show_icons=true&theme=dracula)
 
