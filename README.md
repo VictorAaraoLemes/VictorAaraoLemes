@@ -8,6 +8,8 @@
 
 - 🕮 CS50 at Harvard University
 
+- 🕮 I'm studying to become an Artificial Intelligence developer.
+
 - 👨🏻‍💻 Knowledge in: JavaScript, HTML, CSS, Node,  Java, SQL, Cloud.
 
 - 📨 How to contact me: victoraaraodev@gmail.com
